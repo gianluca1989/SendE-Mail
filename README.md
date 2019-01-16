@@ -21,3 +21,5 @@ Vengono invece lanciati warning:
     In questo caso la parte errata viene eliminata dalla path.
 -   In caso il file non sia trovato nel percorso, (viene scartato e non inviato).
 -   in caso non sia stato possibile trovare il soggetto o il testo della mail. Anch'essi vengono semplicemente ignorati e la mail spedita.
+
+Ovviamente i dati relativamente al server e credenziali nel file di configurazione .json sono stati modificati.
