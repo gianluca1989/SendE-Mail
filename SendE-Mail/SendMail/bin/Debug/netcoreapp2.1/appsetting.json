@@ -1,0 +1,14 @@
+{
+  "Oggetto": "Cedolino",
+  "Body": "Con la presente le invio il cedolino. Distinti saluti",
+  "PathAllegati": "C:\\Users\\gianl\\OneDrive\\Desktop\\OraleFinsa\\AllegatiSendMail\\{Matricola}.txt;C:\\Users\\gianl\\OneDrive\\Desktop\\OraleFinsa\\AllegatiSendMail\\{Nome}{Cognome}.txt;C:\\Users\\gianl\\OneDrive\\Desktop\\OraleFinsa\\AllegatiSendMail\\{Matricola}{Nome}.txt;",
+  "DaIndirizzo": "gianluca.virdis@grupposigla.it",
+  "DaNome": "Gianluca Virdis",
+  "CCIndirizzo": "gianluca.virdis89@gmail.com;gianluca.virdis@hotmail.it",
+  "CCNome": "Gianluca Virdis;Gianluca Virdis",
+
+  "SmtpServer": "smtps.grupposigla.it",
+  "SmtpPort": 465,
+  "SmtpUsername": "gianluca.virdis",
+  "SmtpPassword": "gianluca89"
+}
